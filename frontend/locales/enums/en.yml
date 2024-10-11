@@ -2,6 +2,16 @@ en:
   enumerations:
     content_warning_code:
       cw_adult: Adult Content
+      cw_animal: Animal Cruelty Content
+      cw_birth: Childbirth Content
+      cw_childabuse: Child Abuse Content
+      cw_crime: Crime Scenes Content
+      cw_deceased: Deceased Persons Content
       cw_general: Harmful Content (general)
+      cw_graphic: Graphic Injuries or Violence Content
       cw_hate: Hateful Content
+      cw_medical: Patients in Medical Facilities Content
+      cw_minors: Minors in Potentially Offensive and Sensitive Contexts Content
+      cw_nudity: Nudity Content
       cw_racism: Racist Content
+      cw_records: Medical Records Content
